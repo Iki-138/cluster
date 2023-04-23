@@ -8,5 +8,5 @@ A20JYIHL1W1U54 A7Y6AVS576M03 (10)
 A231WM2Z2JL0U3 A5JLAU2ARJ0BO (11)
 其中，s= min_sup_cnt，即最小支持度计数；k 即 频繁项集中项集的个数。
  
-3)	算法实现：参考实验内容1中使用mlxtend的fpgrowth方法，完成评论数据集的频繁模式挖掘。
+3)	算法实现：3.	使用Apriori算法实现实验内容。
 
